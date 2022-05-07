@@ -1,0 +1,2 @@
+package me.aiglez.supersuccotash
+
